@@ -2,9 +2,9 @@
   "devToolsPort": 19002,
   "expoServerPort": 19000,
   "packagerPort": 19001,
-  "packagerPid": 12832,
-  "expoServerNgrokUrl": null,
-  "packagerNgrokUrl": null,
-  "ngrokPid": null,
+  "packagerPid": 9860,
+  "expoServerNgrokUrl": "https://cw-yh2.anonymous.rn-starter.exp.direct",
+  "packagerNgrokUrl": "https://packager.cw-yh2.anonymous.rn-starter.exp.direct",
+  "ngrokPid": 16956,
   "webpackServerPort": null
 }

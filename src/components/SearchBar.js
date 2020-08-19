@@ -4,7 +4,7 @@ import {Feather} from '@expo/vector-icons'
 // import { TextInput } from 'react-native-gesture-handler'
 
 const SearchBar = ({term, onTermChange, onTermSubmit}) => {
-    console.log(term)
+
     return (
         <View style={styles.background}>
             <Feather name="search" style={styles.iconStyle} />
@@ -28,11 +28,10 @@ const styles = StyleSheet.create({
         borderRadius: 5,
         marginHorizontal: 15,
         flexDirection: 'row',
-        marginTop: 15
+        marginTop: 15,
+        marginBottom: 10
     },
     inputStyle: {
-        borderColor: '#000',
-        borderWidth: 1,
         flex: 1,
         fontSize: 18,
         paddingLeft: 10
